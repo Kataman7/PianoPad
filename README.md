@@ -6,12 +6,12 @@ A mini midi keybaord
 
 # PianoPad assembly guide
 
-![](C:\Users\Antonin\Desktop\PianoPadGuide\img\step1.jpg)
+![](img\step1.jpg)
 
-![](C:\Users\Antonin\Desktop\PianoPadGuide\img\step2.jpg)
+![](img\step2.jpg)
 
-![](C:\Users\Antonin\Desktop\PianoPadGuide\img\step3.jpg)
+![](img\step3.jpg)
 
-![](C:\Users\Antonin\Desktop\PianoPadGuide\img\step4.jpg)
+![](img\step4.jpg)
 
-![](C:\Users\Antonin\Desktop\PianoPadGuide\img\step5.jpg)
+![](img\step5.jpg)
