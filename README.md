@@ -6,7 +6,7 @@ A mini midi keybaord
 
 # PianoPad assembly guide
 
-![](img\step1.jpg)
+![](img/step1.jpg)
 
 ![](img\step2.jpg)
 
